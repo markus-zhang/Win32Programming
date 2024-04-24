@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WinProject", "WinProject\WinProject.vcxproj", "{7518B68D-EAD6-4FD0-BFF7-4F33179A27E1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SystemMetricsDisplay", "SystemMetricsDisplay\SystemMetricsDisplay.vcxproj", "{A8A26D8B-8C60-4D77-92DB-CB73DE183B92}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{7518B68D-EAD6-4FD0-BFF7-4F33179A27E1}.Release|x64.Build.0 = Release|x64
 		{7518B68D-EAD6-4FD0-BFF7-4F33179A27E1}.Release|x86.ActiveCfg = Release|Win32
 		{7518B68D-EAD6-4FD0-BFF7-4F33179A27E1}.Release|x86.Build.0 = Release|Win32
+		{A8A26D8B-8C60-4D77-92DB-CB73DE183B92}.Debug|x64.ActiveCfg = Debug|x64
+		{A8A26D8B-8C60-4D77-92DB-CB73DE183B92}.Debug|x64.Build.0 = Debug|x64
+		{A8A26D8B-8C60-4D77-92DB-CB73DE183B92}.Debug|x86.ActiveCfg = Debug|Win32
+		{A8A26D8B-8C60-4D77-92DB-CB73DE183B92}.Debug|x86.Build.0 = Debug|Win32
+		{A8A26D8B-8C60-4D77-92DB-CB73DE183B92}.Release|x64.ActiveCfg = Release|x64
+		{A8A26D8B-8C60-4D77-92DB-CB73DE183B92}.Release|x64.Build.0 = Release|x64
+		{A8A26D8B-8C60-4D77-92DB-CB73DE183B92}.Release|x86.ActiveCfg = Release|Win32
+		{A8A26D8B-8C60-4D77-92DB-CB73DE183B92}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

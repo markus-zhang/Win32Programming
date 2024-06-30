@@ -3,6 +3,7 @@
 -------------------------------------------------------*/
 
 #define NUMLINES ((int) (sizeof sysmetrics / sizeof sysmetrics[0]))	// 3 in this case
+#include <winuser.h>
 
 struct {
 	int		iIndex;
